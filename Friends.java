@@ -1,8 +1,5 @@
 //-----------------------------------------------------
 // Title: Binary Search Tree
-// Author: Gülfem Akpýnar
-// ID: 55534353160
-// Assignment: 3
 // Description: This class tests the binary search tree with arrays by using information for Friends.csv
 //-----------------------------------------------------
 import java.util.*;
