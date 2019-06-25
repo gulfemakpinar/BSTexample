@@ -1,9 +1,6 @@
 
 //-----------------------------------------------------
 // Title: Binary Search Tree
-// Author: Gülfem Akpýnar
-// ID: 55534353160
-// Assignment: 4
 // Description: This class is the implementation of a binary search tree with arrays.
 //-----------------------------------------------------
 import java.lang.Math;
